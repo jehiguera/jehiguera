@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning about advanced deep learning algorithms in Python and chatbot development.
 - 💞️ I really enjoy collaborating in the research and development of advanced technological products.  
 - 📫 How to reach me: jhiguera@ieee.org
-- Repositories	         Language 	      Link
-  MicropythonLibrary     MicroPython      https://github.com/jehiguera/MicropythonLibrary
+- List of Repositories	    
+- MicroPython |  https://github.com/jehiguera/MicropythonLibrary
   
 
 <!---
