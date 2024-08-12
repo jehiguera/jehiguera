@@ -1,6 +1,6 @@
 - 👋 Hi, I’m an electronic engineer. 
 - 👀 I’m interested in embedded systems, firmware and software development.
-- 🌱 I’m currently learning about advanced deeplearning algorithms in Python.
+- 🌱 I’m currently learning about advanced deep learning algorithms in Python and chatbot development.
 - 💞️ I really enjoy collaborating in the research and development of advanced technological products.  
 - 📫 How to reach me: jhiguera@ieee.org
 
