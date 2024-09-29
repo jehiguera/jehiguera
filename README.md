@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning about advanced deep learning algorithms in Python and chatbot development.
 - 💞️ I really enjoy collaborating in the research and development of advanced technological products.  
 - 📫 How to reach me: jhiguera@ieee.org
-- List of Repositories	    
+- List of Repositories
+- Maxwell equations | https://github.com/jehiguera/Maxwell_Equations    
 - MicroPython |  https://github.com/jehiguera/MicropythonLibrary
 - Kedama autonomous Robot | https://github.com/jehiguera/KedamaRobot
 - Python Astronomy scripts | https://github.com/jehiguera/PythonAstronomy
