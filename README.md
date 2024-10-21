@@ -1,8 +1,8 @@
 👋 Hi, I’m Jorge, an electronic engineer with a passion for embedded systems, firmware, and software development.
 
-👀 I’m deeply interested in IoT smart sensors, actuators, wireless communication technologies, and energy-efficient applications.
+👀 I’m deeply interested in robotics, smart sensors & actuators, automated test systems, wireless communication technologies, and energy-efficient applications.
 
-🌱 Currently, I’m expanding my knowledge in advanced deep learning algorithms and exploring chatbot development with Python.
+🌱 Currently, I’m expanding my knowledge in advanced deep learning algorithms and exploring LLM GPT chatbot development with Python.
 
 🤖 I have a strong passion for robotics and the development of servo drivers using industrial communication protocols like CANopen and EtherCAT. I’m constantly seeking to innovate in motion control and automation systems that leverage these technologies for high precision and efficiency.
 
