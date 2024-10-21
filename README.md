@@ -1,9 +1,15 @@
 👋 Hi, I’m Jorge, an electronic engineer with a passion for embedded systems, firmware, and software development.
+
 👀 I’m deeply interested in IoT smart sensors, actuators, wireless communication technologies, and energy-efficient applications.
+
 🌱 Currently, I’m expanding my knowledge in advanced deep learning algorithms and exploring chatbot development with Python.
+
 🤖 I have a strong passion for robotics and the development of servo drivers using industrial communication protocols like CANopen and EtherCAT. I’m constantly seeking to innovate in motion control and automation systems that leverage these technologies for high precision and efficiency.
+
 💡 I love collaborating in R&D projects that push the boundaries of advanced technological innovation.
+
 💞️ Always open to contributing to projects focused on embedded systems, machine learning, and robotics.
+
 📫 You can reach me at: jhiguera@ieee.org 
 
 - List of Repositories
