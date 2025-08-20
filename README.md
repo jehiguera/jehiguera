@@ -1,4 +1,4 @@
-👋 Hi, I’m Jorge, an electronic engineer with a passion for embedded systems, firmware, and software development.
+👋 Hi, I’m Jorge, an electronic engineer with a passion for embedded systems, firmware development, and software development.
 
 👀 I’m deeply interested in robotics, smart sensors & actuators, automated test systems, wireless communication technologies, and energy-efficient applications.
 
@@ -8,11 +8,12 @@
 
 💡 I love collaborating in R&D projects that push the boundaries of advanced technological innovation.
 
-💞️ Always open to contributing to projects focused on embedded systems, machine learning, and robotics.
+💞️ Always open to contributing to projects focused on financial markets, astronomy, embedded systems, machine learning, and robotics.
 
 📫 You can reach me at: jhiguera@ieee.org 
 
 - List of Repositories
+- wallstreet_market_regime_radar | https://wallstreetregimeradar.streamlit.app/
 - Maxwell equations | https://github.com/jehiguera/Maxwell_Equations    
 - MicroPython |  https://github.com/jehiguera/MicropythonLibrary
 - Kedama autonomous Robot | https://github.com/jehiguera/KedamaRobot
